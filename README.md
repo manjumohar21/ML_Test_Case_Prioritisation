@@ -30,13 +30,12 @@ This project demonstrates how to use **Machine Learning** to prioritize regressi
 
 - **Bar chart**: Shows predicted failure probabilities of test cases.  
 
-![Bar Chart Example](path/to/bar_chart.png)  <!-- Replace with actual screenshot -->
+<img width="851" height="578" alt="image" src="https://github.com/user-attachments/assets/39362e24-0c77-4a0c-9bab-2c3f5b1a3154" />
+
 
 - **Pairplot**: Shows feature relationships and how they influence test case priority.  
 
-![Pairplot Example](path/to/pairplot.png)  <!-- Replace with actual screenshot -->
-
-> Tip: Replace the placeholder images with screenshots or GIFs generated when running the script.
+<img width="695" height="473" alt="image" src="https://github.com/user-attachments/assets/48de0818-0af8-4119-b7a4-562b1442ef2a" />
 
 ---
 
